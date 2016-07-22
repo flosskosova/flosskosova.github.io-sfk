@@ -1,0 +1,30 @@
+<h2 class="section-title"><%= @labels['about'] %></h2>
+<p itemprop="description">SFK (Software Freedom Kosova Conference) is the biggest annual nonprofit conference in Kosovo established to promote software freedom, open source software, free culture and open knowledge, a global movement that originally started more than 25 years ago..</p>
+
+<p>The Conference gathers each year academics, users, developers and people who share the idea that software should be free and open for the community to develop and customize to its needs; that knowledge is a communal property and free and open to everyone.  Each year SFK succeeded in its mission; educating Kosovo youth on Free and Open Source Software, its ideology and the great community behind it. SFK conferences had great impact on creating strong bonds of friendship between the local community and foreign one.</p>
+
+<p>SFK provides a fertile ground to build and enhance networking within the tech community, both in the local region and worldwide by being used as a meeting point for a network of individuals and companies with the aim of sponsoring and initiating projects which benefit the people in Kosovo and which should also result in commercial benefits for the surrounding region.</p>
+
+<p>Available to both the general public and the technical community</p>
+
+<h4>Who is organizing SFK ?</h4>
+
+<p>Free Libre Open Source Software Kosova (FLOSSK) is a non-governmental non-profit organization established in order to support, promote and develop</p>
+
+<p>Free/Libre Software as defined by the Free Software Foundation;<p>	
+<p>Open Source Software as defined by the Open Source Initiative;</p>
+<p>Open and participatory knowledge as that supported by the Wikimedia Foundation;</p>
+<p>Education in information technologies through open courses like those from MIT;</p>
+<p>Standards, culture and open society by using free and open communication as are those supported by the W3C and Creative Commons.</p>
+
+<p>FLOSSK is the organizer of Software Freedom Kosova Conference for the fifth year now, gathering this way people who are interested in creating, developing or simply using free and open source software – based on code that can be altered by the users themselves.</p>
+
+<p>FLOSSK’s website: http://www.flossk.org</p>
+
+<h4>A little History:</h4>
+
+<p>Since, an initiative to promote the plenty fold benefits of free software had not been undertaken until then, on September 2008, James Michael Dupont started an initiative to gather interested parties in the organization of the first Free and Open Source Software in Kosovo.</p>
+
+<p>The virtual event attracted around 600 people and this served as an incentive for a group of close-knit partner organizations to be built and start putting the conference into action.</p>
+
+<p>On March 22nd 2009, the first general assembly of what came to be called FLOSSK was held. The assembly set the aims and goals of the organization: focusing in gathering all IT and non-IT people interested in creating a single movement in creating a Free and Open Source Software community in Kosovo.</p>
